@@ -1,3 +1,37 @@
-/*Aquí va el CSS del fichero 2_tabla.html*/
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 
+    box-sizing: border-box;
+}
 
+table, td {
+    border: 2px solid black;
+}
+.fondo_amarillo_hex {
+    background-color: yellow;
+}
+.fondo_azul_hex {
+    background-color: blue;
+}
+.fondo_rojo_hex {
+    background-color: red;
+}
+#color_blanco {
+    color: white;
+}
+.fondo_azul_hex {
+    background-color: blue;
+}
+.fondo_rojo_hex {
+    background-color: red;
+}
+.fondo_rojo_hex {
+    background-color: red;
+}
+#color_blanco {
+    color: white;
+}
+.fondo_amarillo_hex {
+    background-color: yellow;
+}

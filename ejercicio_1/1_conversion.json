@@ -1,1 +1,63 @@
-// Aquí el contenido en json (Borrar esta línea)
+{
+    "alumno":[
+        "nombre":"Hasbullah Magomedov",
+        "email": "hasbullah@meme.com",
+        "estudios":{
+            "curso":"1º",
+            "ciclo":"Educación infantil"
+        "hobbies":[
+            {
+                "hobbie":"ser un meme"
+            },
+            {
+                "hobbie":"fútbol"
+            },
+            {
+                "hobbie":"cosas de rusos"
+            }
+        ],
+        "asignaturas":[
+            {
+                "titulo":"Lenguaje de marcas",
+                "profesor":"Rodri"
+            },
+            {
+                "titulo":"Inglés",
+                "profesor":"Olaya"
+            },
+            {
+                "titulo":"Programación",
+                "profesor":"Pelayo"              
+            }
+        ]
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

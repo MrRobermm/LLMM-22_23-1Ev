@@ -1,1 +1,28 @@
-<!-- Aquí el contenido en xml (Borrar esta línea) -->
+<conversion>
+    <nombre> Hasbullah Magomedov </nombre>
+    <email> hasbullah@meme.com </email>
+    <estudios>
+        <curso> 1º </curso>
+        <ciclo> Educación infantil </ciclo>
+    </estudios>
+    <hobbies>
+        <nombre> ser un meme </nombre>
+        <nombre> fútbol </nombre>
+        <nombre> cosas de rusos </nombre>
+    </hobbies>
+    <asignaturas>
+        <asignatura>
+            <titulo> lenguajes de marcas </titulo>
+            <profesor> Rodri </profesro>
+        </asignatura>
+        <asignatura>
+            <titulo> Inglés </titulo>
+            <profesor> Olaya A.K.A."La de Inglés" </profesor>
+        </asignatura>
+        <asignatura>
+            <titulo> programación </titulo>
+            <profesor> Pelayo </profesor>
+        </asignatura>
+    </asignaturas>
+</conversion>
+    
